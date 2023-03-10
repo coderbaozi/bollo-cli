@@ -4,4 +4,5 @@
 
 ## usage
 `npm i bollo-cli -g`
-`bollo create <project>` to create your project
+`bollo create <project>` 
+to create your project
