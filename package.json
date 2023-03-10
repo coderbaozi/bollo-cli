@@ -1,6 +1,6 @@
 {
   "name": "bollo-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A modern vue3.0 cli",
   "type": "module",
   "scripts": {
@@ -17,6 +17,7 @@
     "bollo-cli",
     "bollo",
     "cli",
+    "vue3",
     "scaffold"
   ],
   "author": {
