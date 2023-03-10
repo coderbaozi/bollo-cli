@@ -1,0 +1,32 @@
+{
+  "name": "bollo-cli",
+  "version": "1.0.0",
+  "description": "A modern vue3.0 cli",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "bollo": "./bin/bollo.js"
+  },
+  "keywords": [
+    "bollo-cli",
+    "bollo",
+    "cli",
+    "scaffold"
+  ],
+  "author": {
+    "name": "baozi",
+    "url": "https://github.com/coderbaozi"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "commander": "^10.0.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.2",
+    "fs-extra": "^11.1.0",
+    "inquirer": "^9.1.4",
+    "ora": "^6.1.2"
+  }
+}
