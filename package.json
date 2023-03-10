@@ -9,6 +9,10 @@
   "bin": {
     "bollo": "./bin/bollo.js"
   },
+  "files": [
+    "bin",
+    "lib"
+  ],
   "keywords": [
     "bollo-cli",
     "bollo",
