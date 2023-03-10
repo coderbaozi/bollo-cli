@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import {program} from 'commander'
 import inquirer from 'inquirer'
 import { create } from '../lib/create.js'
@@ -25,16 +26,5 @@ program
   })
 
 program
-  .version(`1.0.0`,'-v, --version')
+  .version(`1.0.3`,'-v, --version')
   .parse(process.argv)
-
-// inquirer.prompt([
-//   {
-//     type: 'input',
-//     name: 'project-name',
-//     message: 'Please input your Project name',
-//     default: 'bollo-vue-template'
-//   }
-// ]).then(answers=> {
-//   console.log(answers);
-// })

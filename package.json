@@ -1,7 +1,7 @@
 {
   "name": "bollo-cli",
-  "version": "1.0.2",
-  "description": "A modern vue3.0 cli",
+  "version": "1.0.3",
+  "description": "A CLI to quickly develop your web application",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
