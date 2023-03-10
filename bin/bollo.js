@@ -26,5 +26,5 @@ program
   })
 
 program
-  .version(`1.0.4`,'-v, --version')
+  .version(`1.0.5`,'-v, --version')
   .parse(process.argv)
