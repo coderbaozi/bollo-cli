@@ -3,4 +3,5 @@
 ## description: 'A CLI to quickly develop your web application'
 
 ## usage
-`npm create <project>` to create your project
+`npm i bollo-cli -g`
+`bollo create <project>` to create your project
